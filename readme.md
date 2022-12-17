@@ -20,7 +20,7 @@
  </td>
     
  <td rowspan = 3>
-  <img src= "https://cdn.discordapp.com/attachments/769287623621214220/1053475155822772264/333.png" width = 100% align = top>
+  <img src= "https://cdn.discordapp.com/attachments/769287623621214220/1053476404412559410/sakura.png" width = 100% align = top>
  </td>
  
  </tr>
