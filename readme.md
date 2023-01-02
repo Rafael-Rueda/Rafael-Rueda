@@ -11,8 +11,15 @@
     <td width = 200px><p align = top>Me chamo Rafael e tive contato com a programação desde a infância. Hoje, estudo e pretendo ser um desenvolvedor Full-Stack. Minha linguagem favorita é o Javascript.</p></td>
     </tr>
     <tr> 
-    <td><img src= "https://s9.gifyu.com/images/Linkedin-Logo.png" align = top><sub><a href="https://www.linkedin.com/in/rafael-rueda-03477a237/"> https://www.linkedin.com/in/rafae...</a></sub></td>
-    <td><img src= "https://s9.gifyu.com/images/Instagram-Logo.png" align = top><sub><a href="https://instagram.com/rafael_raru"> https://instagram....</a></sub></td>
+    <td>
+     <table>
+      <tr><th width = 200px><img width = 20px  src= "https://s9.gifyu.com/images/Linkedin-Logo.png" align = top>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=rafael-rueda-03477a237" target="_blank" align = top>Follow on LinkedIn</a></th></tr>
+      </table>
+</td>
+    <td>
+     <table>
+      <tr><th width = 200px><img width = 20px src= "https://s9.gifyu.com/images/Instagram-Logo.png" align = top>&nbsp;<a href="https://instagram.com/rafael_raru" target="_blank">Follow on Instagram</a></th></tr>
+      </table>
     </tr>
   </table>
   
