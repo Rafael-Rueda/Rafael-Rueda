@@ -1,37 +1,40 @@
-### Olá Mundo ! 👋
-
- <table> 
-<tr>
- 
- <td columnspan = 1>
-  
-  <table>
-    <tr>
-    <td width = 300px><img src= "https://cdn.discordapp.com/attachments/769287623621214220/1053406765779275806/Foto_top.jpg" width= 50% align = top><img src= "https://cdn.discordapp.com/attachments/769287623621214220/1053453058312511578/Logo_2.png" width = 50%></td>
-    <td width = 200px><p align = top>Me chamo Rafael e tive contato com a programação desde a infância. Hoje, estudo e pretendo ser um desenvolvedor Full-Stack. Minha linguagem favorita é o Javascript.</p></td>
-    </tr>
-    <tr> 
-    <td>
-     <table>
-      <tr><th height = 50px width = 270px align= left><img width = 20px  src= "https://s9.gifyu.com/images/Linkedin-Logo.png" align = top>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=rafael-rueda-03477a237" target="_blank" align = top>Follow on LinkedIn</a></th></tr>
-      </table>
-</td>
-    <td>
-     <table>
-      <tr><th height = 50px width = 200px><img width = 20px src= "https://s9.gifyu.com/images/Instagram-Logo.png" align = top>&nbsp;<a href="https://instagram.com/rafael_raru" target="_blank">Follow on Instagram</a></th></tr>
-      </table>
-    </tr>
-  </table>
-  
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafael-rueda&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
- </td>
-    
- <td rowspan = 3>
-  <img src= "https://cdn.discordapp.com/attachments/769287623621214220/1053476404412559410/sakura.png" width = 100% align = top>
- </td>
- 
+<table align="center">
+ <tr>
+  <td> <img src="https://cdn.discordapp.com/attachments/769287623621214220/1069813363288326214/Frontend_Developer.png"/> </td>
  </tr>
- 
+ <tr>
+  <td> 
+   <div id="user-content-toc">
+   <ul align="center">
+   <summary>
+   <h1 style="display: inline-block"> Rafael Rueda Ananias</h1>
+   </summary>
+   <summary>
+   <p>Frontend Developer</p>
+   </summary>
+   
+   <summary> 
+   <a href="mailto:rafael.rued4@gmail.com"><img src="https://cdn.discordapp.com/attachments/769287623621214220/1069789108119019551/Button.png"/></a>
+   <a href="https://www.linkedin.com/in/rafael-rueda-ananias/"><img src="https://cdn.discordapp.com/attachments/769287623621214220/1069789108307759224/Button_1.png" /></a>
+   </summary>
+   </ul>
+   </div>
+  </td>
+ </tr>
+  <td width="350px"> 
+   <h2>Sobre mim </h2>
+   <p>Sou um jovem de 18 anos diagnosticado com Asperger que tem paixão em programar. Meus trabalhos envolvem diversas áreas do Frontend, atualmente desenvolvo com React e Javascript, e tenho proeficiência amadora em outras ferramentas que contribuem para o desenvolvimento de um site, em especial o Design (Photoshop, Illustrator, Saas, Vegas). Tenho uma característica muito útil de sempre querer fazer o meu código o mais genérico possível, para uma boa e fácil manutenção posteriormente. Sou hiperfocado em várias tarefas, introspectivo e procuro sempre ir até o final de cada desafio. </p>
+   <h2>Interesses </h2>
+   <p>☕Café ; 🕹️Games ; 💪Saúde física ; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;✏️Desenhos ; 🤑Conceptivo e Metódico ; 📖Leituras</p>
+  </td>
+ <tr>
+  <td>
+  &nbsp;
+   <div align="center">
+   <a href="https://github.com/Rafael-Rueda"><img src="https://cdn.discordapp.com/attachments/769287623621214220/1069802694186913892/GitHub_Icon.png" /></a>
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <a href="https://www.instagram.com/rafael_raru/"><img src="https://cdn.discordapp.com/attachments/769287623621214220/1069802694484693003/Instagram_Icon.png" /></a>
+   </div>
+  </td>
+ </tr>
 </table>
-
-<img src= "https://cdn.discordapp.com/attachments/769287623621214220/1062551007495716925/teste.gif">
