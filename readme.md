@@ -1,4 +1,4 @@
-<table align="center">
+<table align="left">
  <tr>
   <td> <img src="https://cdn.discordapp.com/attachments/769287623621214220/1069813363288326214/Frontend_Developer.png"/> </td>
  </tr>
