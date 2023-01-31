@@ -25,7 +25,7 @@
    <h2>Sobre mim </h2>
    <p>Sou um jovem de 18 anos diagnosticado com Asperger que tem paixão em programar. Meus trabalhos envolvem diversas áreas do Frontend, atualmente desenvolvo com React e Javascript, e tenho proeficiência amadora em outras ferramentas que contribuem para o desenvolvimento de um site, em especial o Design (Photoshop, Illustrator, Saas, Vegas). Tenho uma característica muito útil de sempre querer fazer o meu código o mais genérico possível, para uma boa e fácil manutenção posteriormente. Sou hiperfocado em várias tarefas, introspectivo e procuro sempre ir até o final de cada desafio. </p>
    <h2>Interesses </h2>
-   <p>☕Café ; 🕹️Games ; 💪Saúde física ; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;✏️Desenhos ; 🤑Conceptivo e Metódico ; 📖Leituras</p>
+   <p>☕Café ; 🕹️Games ; 💪Saúde física ; ✏️Desenhos ; 🤑Conceptivo e Metódico ; 📖Leituras</p>
   </td>
  <tr>
   <td>
